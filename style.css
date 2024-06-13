@@ -29,7 +29,7 @@ nav ul li a {
     text-decoration: none;
 }
 .product {
-    border: #232f3e;
+    border: 10px solid #ccc;
     padding: 20px;
     text-align: center;
 }
